@@ -26,8 +26,8 @@ This work is under BSD-2-Clause License. Please, acknowledge use of this work wi
 ## Citation 
 
     @Misc{benchmarking2021,
-      author =   {Liang et al.},
-      title =    {Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains},
+      title={Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains},
+      author={Liang et al.},
       howpublished = {\url{https://github.com/PV-Lab/Benchmarking}},
       year = {2021}
     }
@@ -49,6 +49,17 @@ Materials datasets used to benchmark BO performance in this repository is provid
       pages={eaaz1708},
       year={2020},
       publisher={American Association for the Advancement of Science}
+    }
+(2) Perovskite
+    @article{sun2021data,
+      title={A data fusion approach to optimize compositional stability of halide perovskites},
+      author={Sun, Shijing and Tiihonen, Armi and Oviedo, Felipe and Liu, Zhe and Thapa, Janak and Zhao, Yicheng and Hartono, Noor Titan P and Goyal, Anuj and Heumueller, Thomas and Batali, Clio and others},
+      journal={Matter},
+      volume={4},
+      number={4},
+      pages={1305--1322},
+      year={2021},
+      publisher={Elsevier}
     }
 
 
