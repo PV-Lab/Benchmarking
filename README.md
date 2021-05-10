@@ -1,5 +1,4 @@
 # Benchmarking
-Benchmarking 
 
 Project Name: Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains
 
@@ -21,7 +20,36 @@ Collaborators: Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
 
 Status: Paper under peer review.
 
-Molecule data in this repository is provided by Sarah J. Cox-Vazquez, Cheng Zhou, Nathan C. Incandela, Jakkarin Limwonguyt, Alex S. Moreland, and Guillermo C. Bazan.
+## Attribution
+This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
+
+## Citation 
+
+    @Misc{benchmarking2021,
+      author =   {Liang et al.},
+      title =    {Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains},
+      howpublished = {\url{https://github.com/PV-Lab/Benchmarking}},
+      year = {2021}
+    }
+    (Article citation coming soon.)
+
+## Datasets
+For reuse for code and materials datasets in this repo, please cite both the this study above and the authors for their datasets.
+
+Materials datasets used to benchmark BO performance in this repository is provided by:
+
+(1) Crossed barrel dataset
+
+    @article{gongora2020bayesian,
+      title={A Bayesian experimental autonomous researcher for mechanical design},
+      author={Gongora, Aldair E and Xu, Bowen and Perry, Wyatt and Okoye, Chika and Riley, Patrick and Reyes, Kristofer G and Morgan, Elise F and Brown, Keith A},
+      journal={Science advances},
+      volume={6},
+      number={15},
+      pages={eaaz1708},
+      year={2020},
+      publisher={American Association for the Advancement of Science}
+    }
 
 
 
@@ -37,16 +65,5 @@ Try the desired parts of the project:
 
 
 
-## Attribution
-This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
 
-## Citation
-
-    @Misc{benchmarking2021,
-      author =   {Liang et al.},
-      title =    {Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains},
-      howpublished = {\url{https://github.com/PV-Lab/Benchmarking}},
-      year = {2021}
-    }
-Article citation coming soon.
 
