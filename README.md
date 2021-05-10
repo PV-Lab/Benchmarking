@@ -34,9 +34,9 @@ This work is under BSD-2-Clause License. Please, acknowledge use of this work wi
     (Article citation coming soon.)
 
 ## Datasets
-For reuse for code and materials datasets in this repo, please cite both the this study above and the authors for their datasets.
+**For reuse for code and materials datasets in this repo, please cite both this study and the following authors for sharing their datasets.**
 
-Materials datasets used to benchmark BO performance in this repository is provided by:
+Materials datasets used to benchmark BO performance in this repository are provided by:
 
 (1) Crossed barrel dataset
 
@@ -51,7 +51,7 @@ Materials datasets used to benchmark BO performance in this repository is provid
       publisher={American Association for the Advancement of Science}
     }
     
-(2) Perovskite
+(2) Perovskite dataset
      
      @article{sun2021data,
        title={A data fusion approach to optimize compositional stability of halide perovskites},
@@ -64,7 +64,7 @@ Materials datasets used to benchmark BO performance in this repository is provid
        publisher={Elsevier}
      }
      
-(3) AutoAM
+(3) AutoAM dataset
 
      @article{deneault2021toward,
        title={Toward autonomous additive manufacturing: Bayesian optimization on a 3D printer},
@@ -75,7 +75,7 @@ Materials datasets used to benchmark BO performance in this repository is provid
        publisher={Springer}
      }
      
-(4) P3HT/CNT
+(4) P3HT/CNT dataset
 
     @article{bash2020machine,
       title={Machine learning and high-throughput robust design of P3HT-CNT composite thin films for high electrical conductivity},
@@ -84,7 +84,7 @@ Materials datasets used to benchmark BO performance in this repository is provid
       year={2020}
     }
     
-(5) AgNP
+(5) AgNP dataset
 
     @article{mekki2021two,
       title={Two-step machine learning enables optimized nanoparticle synthesis},
