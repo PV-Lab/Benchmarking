@@ -12,7 +12,7 @@ GitHub Repo: https://github.com/PV-Lab/Benchmarking
 
 Collaborators:
 
-Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, Liu Zhe, etc.
+Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
 
 Location of other data:
 
