@@ -1,24 +1,18 @@
 # Benchmarking
 Benchmarking 
 
-Project Name: (Tentative) Benchmarking
+Project Name: Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains
 
-Project Leader: Harry Qiaohao Liang (hqliang@mit.edu)
+Corresponding author: Harry Qiaohao Liang (hqliang@mit.edu)
 
 Abstract: 
-In the field of machine learning (ML) for materials optimization, active learning algorithms like Bayesian Optimization (BO) have been widely used to guide high- throughput autonomous experiments. However, very few studies have evaluated the efficiency of BO as a general optimization algorithm for a wide range of material systems. In this work, we apply a benchmarking framework to evaluate the performance of BO across five diverse experimental materials science domains. With acceleration and enhancement metrics defined for specific research objectives, we show that random forests (RF) paired with lower confidence bound (LCB) outclass other combinations of surrogate models and acquisition functions commonly used in BO. Our analysis of RF’s performance and practicality as surrogate model has also yielded many useful insights on how materials scientists could select the most suitable BO algorithms to improve their optimization campaigns. 
+In the field of machine learning (ML) for materials optimization, active learning algorithms, such as Bayesian Optimization (BO), have enjoyed increased popularity in guiding autonomous high-throughput experimentation systems. However, very few studies have evaluated the efficiency of BO as a general optimization algorithm across a broad range of experimental materials science domains. In this work, we benchmark the performance of BO algorithms with a collection of surrogate model and acquisition function pairs across five diverse experimental materials systems, namely carbon nanotube polymer blends, silver nanoparticles, lead-halide perovskites, as well as additively manufactured polymer structures and shapes. By defining acceleration and enhancement performance metrics for general materials optimization objectives, we find that for surrogate model selection, a Gaussian Process (GP) equipped with anisotropic kernels such as automatic relevance detection (ARD) and Random Forests (RF) have comparable performance and both outclass a GP without ARD. We discuss the implicit distributional assumptions of RF and GP, and the benefits of using GP with anisotropic kernels in detail. We provide practical insights for experimentalists on surrogate model selection of BO during materials optimization campaigns.
 
 GitHub Repo: https://github.com/PV-Lab/Benchmarking
 
-Collaborators:
+Collaborators: Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
 
-Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
-
-Location of other data:
-
-[1] \Buonassisi-Group\AMD Team\Benchmarking\04_Data
-
-Sponsors: TOTAL
+Status: Paper under peer review.
 
 Explanation of code within GitHub Repo:
 
