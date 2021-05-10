@@ -50,16 +50,51 @@ Materials datasets used to benchmark BO performance in this repository is provid
       year={2020},
       publisher={American Association for the Advancement of Science}
     }
+    
 (2) Perovskite
-    @article{sun2021data,
-      title={A data fusion approach to optimize compositional stability of halide perovskites},
-      author={Sun, Shijing and Tiihonen, Armi and Oviedo, Felipe and Liu, Zhe and Thapa, Janak and Zhao, Yicheng and Hartono, Noor Titan P and Goyal, Anuj and Heumueller, Thomas and Batali, Clio and others},
-      journal={Matter},
-      volume={4},
-      number={4},
-      pages={1305--1322},
+     
+     @article{sun2021data,
+       title={A data fusion approach to optimize compositional stability of halide perovskites},
+       author={Sun, Shijing and Tiihonen, Armi and Oviedo, Felipe and Liu, Zhe and Thapa, Janak and Zhao, Yicheng and Hartono, Noor Titan P and Goyal, Anuj and Heumueller, Thomas and Batali, Clio and others},
+       journal={Matter},
+       volume={4},
+       number={4},
+       pages={1305--1322},
+       year={2021},
+       publisher={Elsevier}
+     }
+     
+(3) AutoAM
+
+     @article{deneault2021toward,
+       title={Toward autonomous additive manufacturing: Bayesian optimization on a 3D printer},
+       author={Deneault, James R and Chang, Jorge and Myung, Jay and Hooper, Daylond and Armstrong, Andrew and Pitt, Mark and Maruyama, Benji},
+       journal={MRS Bulletin},
+       pages={1--10},
+       year={2021},    
+       publisher={Springer}
+     }
+     
+(4) P3HT/CNT
+
+    @article{bash2020machine,
+      title={Machine learning and high-throughput robust design of P3HT-CNT composite thin films for high electrical conductivity},
+      author={Bash, Daniil and Cai, Yongqiang and Chellappan, Vijila and Wong, Swee Liang and Xu, Yang and Kumar, Pawan and Da Tan, Jin and Abutaha, Anas and Cheng, Jayce and Lim, Yee Fun and others},
+      journal={arXiv preprint arXiv:2011.10382},
+      year={2020}
+    }
+    
+(5) AgNP
+
+    @article{mekki2021two,
+      title={Two-step machine learning enables optimized nanoparticle synthesis},
+      author={Mekki-Berrada, Flore and Ren, Zekun and Huang, Tan and Wong, Wai Kuan and Zheng, Fang and Xie, Jiaxun and Tian, Isaac Parker Siyu and Jayavelu, Senthilnath and Mahfoud, Zackaria and Bash, Daniil and others},
+      journal={npj Computational Materials},
+      volume={7},
+      number={1},
+      pages={1--10},
       year={2021},
-      publisher={Elsevier}
+      publisher={Nature Publishing Group}
     }
 
 
