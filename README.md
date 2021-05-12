@@ -46,7 +46,7 @@ The package contains the following module and scripts:
 | `Example use of framework with GP type surrogate models.ipynb`      | Script for running framework      |
 | `Example use of framework with RF type surrogate models.ipynb`      | Script for running framework       |
 | `Manifold Visualization.ipynb`      | Script for visualizing materials dataset design spaces   |
-| `Manifold Visualization.ipynb`      | Script for visualizing performance   |
+| `Performance Visualization.ipynb`      | Script for visualizing performance   |
 
 
 ## Datasets
