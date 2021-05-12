@@ -32,6 +32,22 @@ This work is under BSD-2-Clause License. Please, acknowledge use of this work wi
       year = {2021}
     }
     (Article citation coming soon.)
+    
+## Usage
+
+run `Example use of framework with GP type surrogate models.ipynb` or `Example use of framework with RF type surrogate models.ipynb` with any of the given datasets to benchmark the performance of a selected BO algorithm using pool-based active learning framework. 
+run `Manifold Visualization.ipynb` with any of the given datasets to visualize its design space. 
+run `Performance Visualization.ipynb` with demo benchmarking results from `vis_demo_calc` or any benchmarking results from running the framework locally.
+
+The package contains the following module and scripts:
+
+| Module | Description |
+| ------------- | ------------------------------ |
+| `Example use of framework with GP type surrogate models.ipynb`      | Script for running framework      |
+| `Example use of framework with RF type surrogate models.ipynb`      | Script for running framework       |
+| `Manifold Visualization.ipynb`      | Script for visualizing materials dataset design spaces   |
+| `Manifold Visualization.ipynb`      | Script for visualizing performance   |
+
 
 ## Datasets
 **For reuse for code and materials datasets in this repo, please cite both this study and the following authors for sharing their datasets.**
@@ -99,15 +115,6 @@ Materials datasets used to benchmark BO performance in this repository are provi
 
 
 
-Try the desired parts of the project:
-- Main_downselection.py: Generates datafiles for other codes. Repeats molecular descriptor downselection for the data and trains RF models at each stage of downselection.
-- Main_training_models.py: Trains RF, XGB, and GP models with downselected molecular fingerprints and reference fingerprints.
-- SHAP_for_RF_analysis.ipynb: Investigate the final RF model trained with Opt. fingerprint using SHAP analysis.
-- Main_train_test_chemprop_models_stratified_split.sh: Train and test DMPNN and ffNN models. Running this code may take an hour or so, therefore it is better to run on a server. Alternatively, the fully trained model is available by request from the authors (not included into this repository due to its large size).
-- Main_plot_chemprop_models_and_violins.py: Plot neural network model results and all the violin plots. Works only after Main_train_test_chemprop_models_stratigfied_split.sh has been run.
-- RFE_RF_run.sh: Run RFE for Cor. descriptors. Running this code may take an hour or so, therefore it is better to run on a server.
-- HO_RF_init_var_cor.sh: Hyperparameter optimization for RF. Running this code may take an hour or so, therefore it is better to run on a server.
-- Results: All the resulting figures created when running the codes. 
 
 
 
