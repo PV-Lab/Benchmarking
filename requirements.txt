@@ -1,0 +1,8 @@
+
+scikit-learn
+numpy
+matplotlib
+GPy
+pyDOE
+pandas
+scipy
