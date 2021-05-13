@@ -70,6 +70,8 @@ Materials datasets used to benchmark BO performance in this repository are provi
       publisher={American Association for the Advancement of Science}
     }
     
+    link: https://advances.sciencemag.org/content/6/15/eaaz1708
+    
 (2) Perovskite dataset
      
      @article{sun2021data,
@@ -83,6 +85,8 @@ Materials datasets used to benchmark BO performance in this repository are provi
        publisher={Elsevier}
      }
      
+     link: https://www.sciencedirect.com/science/article/pii/S2590238521000084
+     
 (3) AutoAM dataset
 
      @article{deneault2021toward,
@@ -94,6 +98,8 @@ Materials datasets used to benchmark BO performance in this repository are provi
        publisher={Springer}
      }
      
+     link: https://link.springer.com/article/10.1557/s43577-021-00051-1
+     
 (4) P3HT/CNT dataset
 
     @article{bash2020machine,
@@ -102,6 +108,8 @@ Materials datasets used to benchmark BO performance in this repository are provi
       journal={arXiv preprint arXiv:2011.10382},
       year={2020}
     }
+    
+    link: https://arxiv.org/abs/2011.10382
     
 (5) AgNP dataset
 
@@ -115,6 +123,10 @@ Materials datasets used to benchmark BO performance in this repository are provi
       year={2021},
       publisher={Nature Publishing Group}
     }
+    
+    link: https://www.nature.com/articles/s41524-021-00520-w
+    
+    
 
 
 
