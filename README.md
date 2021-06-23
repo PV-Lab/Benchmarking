@@ -20,6 +20,8 @@ Collaborators: Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
 
 Status: Paper under peer review.
 
+Arxiv: https://arxiv.org/abs/2106.01309
+
 ## Attribution
 This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
 
