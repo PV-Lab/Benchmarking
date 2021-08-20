@@ -104,14 +104,16 @@ Materials datasets used to benchmark BO performance in this repository are provi
      
 (4) P3HT/CNT dataset (will be available soon)
 
-    @article{bash2020machine,
-      title={Machine learning and high-throughput robust design of P3HT-CNT composite thin films for high electrical conductivity},
-      author={Bash, Daniil and Cai, Yongqiang and Chellappan, Vijila and Wong, Swee Liang and Xu, Yang and Kumar, Pawan and Da Tan, Jin and Abutaha, Anas and Cheng, Jayce and Lim, Yee Fun and others},
-      journal={arXiv preprint arXiv:2011.10382},
-      year={2020}
+    @article{bash2021multi,
+    title={Multi-Fidelity High-Throughput Optimization of Electrical Conductivity in P3HT-CNT Composites},
+    author={Bash, Daniil and Cai, Yongqiang and Chellappan, Vijila and Wong, Swee Liang and Yang, Xu and Kumar, Pawan and Tan, Jin Da and Abutaha, Anas and Cheng, Jayce JW and Lim, Yee-Fun and others},
+    journal={Advanced Functional Materials},
+    pages={2102606},
+    year={2021},
+    publisher={Wiley Online Library}
     }
     
-    link: https://arxiv.org/abs/2011.10382
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202102606
     
 (5) AgNP dataset
 
