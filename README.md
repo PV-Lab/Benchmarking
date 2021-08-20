@@ -101,7 +101,7 @@ Materials datasets used to benchmark BO performance in this repository are provi
      
      link: https://link.springer.com/article/10.1557/s43577-021-00051-1
      
-(4) P3HT/CNT dataset (will be available soon)
+(4) P3HT/CNT dataset
 
     @article{bash2021multi,
     title={Multi-Fidelity High-Throughput Optimization of Electrical Conductivity in P3HT-CNT Composites},
