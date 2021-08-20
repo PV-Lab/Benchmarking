@@ -38,7 +38,7 @@ This work is under BSD-2-Clause License. Please, acknowledge use of this work wi
 
 run `Example use of framework with GP type surrogate models.ipynb` or `Example use of framework with RF type surrogate models.ipynb` with any of the given datasets to benchmark the performance of a selected BO algorithm using pool-based active learning framework. 
 run `Manifold Visualization.ipynb` with any of the given datasets to visualize its design space. 
-run `Performance Visualization.ipynb` with demo benchmarking results from `vis_demo_calc` or any benchmarking results from running the framework locally.
+run `Performance Visualization.ipynb` with given demo benchmarking results or any benchmarking results from running the framework locally.
 
 The package contains the following module and scripts:
 
