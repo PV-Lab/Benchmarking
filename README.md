@@ -6,7 +6,7 @@ Project Name: Benchmarking the Performance of Bayesian Optimization across Multi
 ||                    |
 | ------------- | ------------------------------ |
 | **AUTHORS**      | Harry Qiaohao Liang     | 
-| **VERSION**      | 1.0 / April, 2021     | 
+| **VERSION**      | 2.0 / Aug, 2021     | 
 | **EMAILS**      | hqliang@mit.edu | 
 ||                    |
 
