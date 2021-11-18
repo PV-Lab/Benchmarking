@@ -21,22 +21,13 @@ Collaborators: Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
 Status: Published in npj Computational Materials (2021).
 See PDF at: https://rdcu.be/cByoD
 
-To cite our work, please use:
-Liang, Q., Gongora, A.E., Ren, Z. et al. Benchmarking the performance of Bayesian optimization across multiple experimental materials science domains. npj Comput Mater 7, 188 (2021). https://doi.org/10.1038/s41524-021-00656-9
-
 
 ## Attribution
 This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
 
 ## Citation 
 
-    @Misc{benchmarking2021,
-      title={Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains},
-      author={Liang et al.},
-      howpublished = {\url{https://github.com/PV-Lab/Benchmarking}},
-      year = {2021}
-    }
-    (Article citation coming soon.)
+Liang, Q., Gongora, A.E., Ren, Z. et al. Benchmarking the performance of Bayesian optimization across multiple experimental materials science domains. npj Comput Mater 7, 188 (2021). https://doi.org/10.1038/s41524-021-00656-9
     
 ## Usage
 
