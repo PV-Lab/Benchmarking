@@ -18,7 +18,11 @@ GitHub Repo: https://github.com/PV-Lab/Benchmarking
 
 Collaborators: Aldair Gongora, Danny Zekun Ren, Armi Tiihonen, etc.
 
-Status: Paper under peer review.
+Status: Published in npj Computational Materials (2021).
+See PDF at: https://rdcu.be/cByoD
+
+To cite our work, please use:
+Liang, Q., Gongora, A.E., Ren, Z. et al. Benchmarking the performance of Bayesian optimization across multiple experimental materials science domains. npj Comput Mater 7, 188 (2021). https://doi.org/10.1038/s41524-021-00656-9
 
 
 ## Attribution
